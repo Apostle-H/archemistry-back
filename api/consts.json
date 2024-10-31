@@ -1,0 +1,67 @@
+{
+  "max_energy": 100,
+  "move_energy_cost": 1,
+  "energy_regeneration_delta_in_seconds": 60,
+  "energy_regeneration_amount": 10,
+  "rating_update_delta_in_seconds": 60,
+  "referral_energy_reward": 50,
+  "grid_size_x": 6,
+  "grid_size_y": 6,
+  "match_element_soft_reward": 5,
+  "match_element_soft_referral_bonus": 1,
+  "match_element_score_value": 1,
+  "match_sets": [
+    [
+      { "x": 0, "y": 0 },
+      { "x": 1, "y": 0 },
+      { "x": 2, "y": 0 },
+      { "x": 3, "y": 0 },
+      { "x": 4, "y": 0 },
+      { "x": 5, "y": 0 }
+    ],
+    [
+      { "x": 0, "y": 0 },
+      { "x": 0, "y": 1 },
+      { "x": 0, "y": 2 },
+      { "x": 0, "y": 3 },
+      { "x": 0, "y": 4 },
+      { "x": 0, "y": 5 }
+    ],
+    [
+      { "x": 0, "y": 0 },
+      { "x": 1, "y": 0 },
+      { "x": 2, "y": 0 },
+      { "x": 3, "y": 0 },
+      { "x": 4, "y": 0 }
+    ],
+    [
+      { "x": 0, "y": 0 },
+      { "x": 0, "y": 1 },
+      { "x": 0, "y": 2 },
+      { "x": 0, "y": 3 },
+      { "x": 0, "y": 4 }
+    ],
+    [
+      { "x": 0, "y": 0 },
+      { "x": 1, "y": 0 },
+      { "x": 2, "y": 0 },
+      { "x": 3, "y": 0 }
+    ],
+    [
+      { "x": 0, "y": 0 },
+      { "x": 0, "y": 1 },
+      { "x": 0, "y": 2 },
+      { "x": 0, "y": 3 }
+    ],
+    [
+      { "x": 0, "y": 0 },
+      { "x": 1, "y": 0 },
+      { "x": 2, "y": 0 }
+    ],
+    [
+      { "x": 0, "y": 0 },
+      { "x": 0, "y": 1 },
+      { "x": 0, "y": 2 }
+    ]
+  ]
+}

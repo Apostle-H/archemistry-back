@@ -1,0 +1,4 @@
+type,description,target_value,reward_type,reward
+2,Spend energy,700,2,2000
+4,Match 4+ pattern,40,1,30
+5,Combo 2+ from one swap,30,3,100
